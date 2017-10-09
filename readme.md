@@ -17,7 +17,7 @@ The chat feature was implemented using Firebase's FriendlyChat tutorial.
 * Go through the [Firebase Friendly chat tutorial](https://github.com/firebase/friendlychat-web)
 * Replace the link in the modal window with your hosted link.
 * And youre done!
+#### Watch the video here:
 [![Watch the Video here](http://img.youtube.com/vi/TX34LY4t_M8/0.jpg)](http://www.youtube.com/watch?v=TX34LY4t_M8)
 
-
-
+The CSS template used was forked from [xriley's Orbit Theme](https://github.com/xriley/Orbit-Theme)
